@@ -29,7 +29,7 @@ void setup()
 
 	//clearRam();
 
-	char message[92] = "I love Jalee so much! She is the love of my life and I can't explain how much I love her!!!";
+	char message[62] = "Marry had a little lamp whose lampshade was as white as snow.";
 	//writeString(message);
 	addressMax = sizeof(message);
 }
